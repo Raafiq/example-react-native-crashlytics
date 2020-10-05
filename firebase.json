@@ -1,0 +1,7 @@
+{
+	"react-native": {
+		"messaging_android_notification_channel_id": "Notifications",
+		"crashlytics_disable_auto_disabler": true,
+		"crashlytics_debug_enabled": true
+	}
+}
